@@ -7,9 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Form Input Matakuliah</title>
 </head>
+
 <body>
     <center>
-        <form action="./../controllers/Matakuliah.php" method="post">
+        <form action=" ./../matakuliah/cetak " method="post">
             <table>
                 <tr>
                     <th colspan="3">
@@ -56,4 +57,5 @@
         </form>
     </center>
 </body>
+
 </html>
